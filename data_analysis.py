@@ -25,3 +25,6 @@ sns.violinplot(data=df1, palette="Set3", bw=.2, cut=1, linewidth=1)
 # 去除上下左右的边框（默认该函数会取出右上的边框）
 sns.despine(left=True, bottom=True)
 # plt.savefig('violin.png',dpi=150)
+
+
+#add  test pt line
